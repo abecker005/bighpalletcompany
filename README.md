@@ -1,5 +1,3 @@
-# bighpalletcompany
-Recycled Pallets Delivered to you
 <!DOCTYPE html>
 <html lang="en">
 <head>
